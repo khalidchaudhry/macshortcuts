@@ -5,6 +5,10 @@ Mac Commands
  
 _A list of my commonly used  Mac commands_
 
+### Misc shortcuts
+| Command | Description |
+| ------- | ----------- |
+| `Ctrl+Cmd+q` |  This shortcut locks the apple screen 
 ### Terminal shortcuts
 | Command | Description |
 | ------- | ----------- |
