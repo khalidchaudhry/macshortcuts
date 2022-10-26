@@ -9,6 +9,7 @@ _A list of my commonly used  Mac commands_
 | Command | Description |
 | ------- | ----------- |
 | `Ctrl+Cmd+q` |  This shortcut locks the apple screen 
+| `Cmd+opt+esc` |  This shortcut allows to force quit application 
 ### Terminal shortcuts
 | Command | Description |
 | ------- | ----------- |
