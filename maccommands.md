@@ -66,5 +66,4 @@ iTerm2 Commands
 | Command | Description |
 | ------- | ----------- |
 | `Shift+Cmd+]` |  This shortcut switch to next tab
-
 | `Shift+Cmd+[` |  This shortcut switch to previous tab
