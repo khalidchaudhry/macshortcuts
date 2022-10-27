@@ -61,3 +61,10 @@ _A list of my commonly used  Mac commands_
 | `mv file1 file2 ..... destination` |This will move multiple files to destination directory.**The directory must exist**|
 | `file yourfile` |Print brief description of file's content and will reveal the file type,**Linux has no concept of file extension**|
 
+iTerm2 Commands
+===============
+| Command | Description |
+| ------- | ----------- |
+| `Shift+Cmd+]` |  This shortcut switch to next tab
+
+| `Shift+Cmd+[` |  This shortcut switch to previous tab
